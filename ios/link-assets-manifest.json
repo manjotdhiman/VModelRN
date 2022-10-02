@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/SansSerifBldFLF-Italic.otf",
+      "sha1": "35931db41c4101fc3751fa77189edcaccc1d1d4d"
+    },
+    {
+      "path": "assets/fonts/SansSerifBldFLF.otf",
+      "sha1": "8cb006295ecb79020c395aa0cef3171b76dd612b"
+    },
+    {
+      "path": "assets/fonts/SansSerifBldFLFCond-Italic.otf",
+      "sha1": "9fc713d9d78f36eefbfb44efc1015e0af947f9a9"
+    },
+    {
+      "path": "assets/fonts/SansSerifBldFLFCond.otf",
+      "sha1": "03814c8e85898e5e59c4e6c30b5bfad9e3357eb6"
+    },
+    {
+      "path": "assets/fonts/SansSerifBookFLF-Italic.otf",
+      "sha1": "b4931496b36089ce224f168191f4d364112277dc"
+    },
+    {
+      "path": "assets/fonts/SansSerifBookFLF.otf",
+      "sha1": "cf3cecaf964b7b3deb0c151b623b6e48b8d8030e"
+    },
+    {
+      "path": "assets/fonts/SansSerifExbFLF-Italic.otf",
+      "sha1": "9946ade32fd7692ac883ac3874e4cace929b547b"
+    },
+    {
+      "path": "assets/fonts/SansSerifExbFLF.otf",
+      "sha1": "7943d82c1e05958242f7738b1902c3b2f96530b6"
+    },
+    {
+      "path": "assets/fonts/SansSerifExbFLFCond-Italic.otf",
+      "sha1": "b337dcb37ac1a121cfb08262ec9763990daf8366"
+    },
+    {
+      "path": "assets/fonts/SansSerifExbFLFCond.otf",
+      "sha1": "d8f178d051466edbc336a50002268135dec7e518"
+    },
+    {
+      "path": "assets/fonts/SansSerifFLF-DemiItalic.otf",
+      "sha1": "fee2c4bc6dad1ec024f6be6ce2a62e07e3e3b60d"
+    },
+    {
+      "path": "assets/fonts/SansSerifFLF-Demibold.otf",
+      "sha1": "5c34c7fb95fbe99621f97039ee56d14e18f298fc"
+    },
+    {
+      "path": "assets/fonts/SansSerifFLF-Italic.otf",
+      "sha1": "46d6b4bf12ee802807bf16a2e360be0a7df59e9e"
+    },
+    {
+      "path": "assets/fonts/SansSerifFLF.otf",
+      "sha1": "4169bb34b552d3ac95580a940a5d4a11dd02dd2c"
+    }
+  ]
+}
